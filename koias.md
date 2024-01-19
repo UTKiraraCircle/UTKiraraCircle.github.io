@@ -13,7 +13,7 @@ contact_info:
     - title: お問い合わせ
       info : <a href="https://twitter.com/UT_koias" target="_blank" rel="noopener noreferrer">公式Twitterアカウント</a>
     - title: 代表
-      info : <a href="https://twitter.com/kn1cht" target="_blank" rel="noopener noreferrer">kn1cht</a>
+      info : <a href="https://twitter.com/syobon_hinata" target="_blank" rel="noopener noreferrer">ふぁぼん</a>
     - title: 設立
       info : 2021年5月
 twitter:
@@ -34,6 +34,11 @@ twitter:
 <div class="section has-text-centered">
     <p class="subtitle is-uppercase has-text-weight-semibold">活動状況</p>
 </div>
+
+### 在庫状況
+2024年1月現在、「#FindOurStars Vol.2」のみ少数の既刊がございます。各種同人誌即売会の「東京大学きらら同好会」ブースにて頒布しています。
+メロンブックス様では、「「#FindOurStars Vol.1」「「#FindOurStars Vol.2」とも売切となっております。
+
 
 ### 2022年8月13日 「コミックマーケット100」にサークル参加します
 

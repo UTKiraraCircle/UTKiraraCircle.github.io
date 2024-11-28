@@ -10,14 +10,14 @@ layout: compress
   {% include navbar.html %}
   {% include showcase.html %}
   {% include about.html %}
-  <section class="hero is-fullheight" id="activity">
+  <section class="hero" id="activity">
     <div class="hero-body">
       <div class="container has-text-centered project">
         <div class="section">
           <p class="subtitle is-uppercase has-text-weight-semibold">主な活動</p>
           {% include project-card.html activity=site.data.activity %}
         </div>
-        <div class="content section">
+        <!-- <div class="content section">
           <p class="subtitle is-uppercase has-text-weight-semibold">新着情報</p>
           <ul class="has-text-left">
             {% assign newsListLatest = site.data.news | slice: 0, 5 %}
@@ -27,7 +27,7 @@ layout: compress
             </li>
             {% endfor %}
           </ul>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>

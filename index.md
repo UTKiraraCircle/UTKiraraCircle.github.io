@@ -1,13 +1,12 @@
 ---
 layout: default
-member_num: 86
 contact_info:
     - title: 団体名
       info : 東京大学きらら同好会
     - title: 加盟団体
       info : 東京大学教養学部学友会
     - title: 会員数
-      info : 約90名（2023年4月18日現在）
+      info : 約80名（2024年11日現在）
     - title: 入会方法
       info : <a href="https://forms.gle/wV19XLcv38hD6tqd9" target="_blank" rel="noopener noreferrer">入会申請フォーム</a>（ECCSアカウントでアクセスしてください）
     - title: お問い合わせ
@@ -15,7 +14,7 @@ contact_info:
     - title: 規約
       info : <a href="/assets/misc/東京大学きらら同好会会則_v20220330.pdf" target="_blank" rel="noopener noreferrer">規約(PDFファイル)</a>
     - title: 代表
-      info : <a href="https://twitter.com/0500mL" target="_blank" rel="noopener noreferrer">500mL</a>
+      info : ポリアネス
     - title: 設立
       info : 2021年4月
 twitter:
@@ -30,7 +29,7 @@ twitter:
 {:.margin}
 <span class="is-size-4">Q.</span> そもそもきらら作品って何ですか？ <br>
 <span class="is-size-4">A.</span> 芳文社の発行する漫画雑誌『**まんがタイムきらら**』及びその姉妹誌に掲載されている作品のことです。<br>
-有名所でいうと『けいおん！』『ゆるキャン△』『魔法少女まどか☆マギカ』『ご注文はうさぎですか？』『きんいろモザイク』あたりは聞いたことがある方も多いかもしれません。
+有名所でいうと『けいおん！』『ゆるキャン△』『ご注文はうさぎですか？』『きんいろモザイク』『ぼっち・ざ・ろっく！』『恋する小惑星』あたりは聞いたことがある方も多いかもしれません。
 
 {:.margin}
 <span class="is-size-4">Q.</span> きらら作品のことをあまり知らないのですが大丈夫ですか？<br>
@@ -39,7 +38,7 @@ twitter:
 
 {:.margin}
 <span class="is-size-4">Q.</span> 2年生以上なんですが入会できますか？<br>
-<span class="is-size-4">A.</span> もちろん大歓迎です！　現在約{{ page.member_num }}名ほどの会員がいますが、**学部1年生から博士課程院生まで幅広く在籍**しています！<br>
+<span class="is-size-4">A.</span> もちろん大歓迎です！　**学部1年生から博士課程院生まで幅広く在籍**しています！<br>
 会の主要な交流手段には**Discord**を使用しているため、駒場キャンパスに通学していない方でも参加に支障はありません。
 
 {:.margin}

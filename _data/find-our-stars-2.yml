@@ -104,6 +104,12 @@ articles:
       - alt: エクトぷらずまサンプル2
         src: /assets/images/find-our-stars-2/s-ectoplasma-02.jpg
         thumbnail: /assets/images/find-our-stars-2/s-ectoplasma-02-thumb.jpg
+    ext_links:
+      -
+        href: https://utkiraracircle.hatenablog.com/entry/koias-puzzle-hunt
+        text: 全文リンク
+        class: "is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "恋する小惑星考察年表"
     authors:
       - name: kn1cht
@@ -119,6 +125,12 @@ articles:
       - alt: kn1chtサンプル4
         src: /assets/images/find-our-stars-2/s-kn1cht-04.jpg
         thumbnail: /assets/images/find-our-stars-2/s-kn1cht-04-thumb.jpg
+    ext_links:
+      -
+        href: https://utkiraracircle.hatenablog.com/entry/koias-nenpyo
+        text: 全文リンク
+        class: "is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "拝啓、海の向こうの空へ"
     authors:
       - name: ふぁぼん
